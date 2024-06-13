@@ -1,0 +1,25 @@
+Dia 04/04
+
+-Foi aprendido programação básica no Kahoot,
+-Conhecemos a instalação do Senai,
+-Fotos,
+-Desafio de Lógica.
+-Apresentação pessoal em Dubla.
+
+Dia 11/04
+
+-Comandos aprendidos:
+ =git help;
+ =git init;
+ =git clone;
+ =git add;
+ =git status;
+ =git commit;
+ =git log;
+ =git push;
+ =git pull;
+ =git branch;
+ =git checkout,
+ =git merge.
+
+-Foi criado conta do GitHub,

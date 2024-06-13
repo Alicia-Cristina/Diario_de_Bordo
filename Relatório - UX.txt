@@ -1,0 +1,11 @@
+Dia 06/06
+
+-Aprendido conceitos de UX;
+-Investigação de sites de API gratuitos para ver a documentação a tentar acessar pelo Postman,
+-Baixado projeto modelo para usar a biblioteca OpenAPI e Swagger para documentação automática.
+
+Dia 13/06
+
+-Feito relatórios;
+-Colocado no GitHub,
+-Usado MySQL.

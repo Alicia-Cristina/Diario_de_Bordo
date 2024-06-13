@@ -1,0 +1,18 @@
+Dia 18/04
+
+-Criado um projeto Java 
+-Feito menu do jogo Advinhação
+-Foi colocado no GitHub
+
+Dia 16/05
+
+-Criado mais uma versão do Jogo de Adivinhação, pois alguns alunos não possuiam o projeto;
+-Feito menu e estrutura do jogo ultilizando estrutura de decisão (IF...ELSE),
+-No jogo o usuário informava um número e o jogo informava se acertou ou não.
+
+Dia 23/05
+
+-Incrementado lógica do jogo;
+-Colocado estruta de laço e repetição, onde o jogado poderia jogar mais de uma vez;
+-Ultilizado o laço FOR,
+-Baixado o projeto para a situação de apredizagem usando o Spring Initializr.

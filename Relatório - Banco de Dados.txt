@@ -1,0 +1,21 @@
+Dia 25/04
+
+-Foi visto alguns conceitos de Bancos de Dados:
+  -Para oque serve Banco de Dados;
+  -Aonde vai o Banco de Dados;
+  -Como o usar;
+-Visto Modelo Identidade De Relacionamento,
+-Salvo no GitHub.
+
+Dia 02/05
+
+-Foi criado as tabelas do Banco de Dados,
+-MySQL.
+
+Dia 09/05
+
+-Ultilizado Engenharia Direta do MySQL para gerar o script de criação de Banco;
+-Inserido algumas informações ultilizando o comando Insert;
+-Ultizado o comando select para ver informações,
+-Salvado no GitHub.
+
