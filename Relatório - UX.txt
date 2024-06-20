@@ -7,5 +7,6 @@ Dia 06/06
 Dia 13/06
 
 -Feito relatórios;
--Colocado no GitHub,
--Usado MySQL.
+-Colocado no GitHub;
+-Usado IntelliJ,
+-Usamos o Swagger.
