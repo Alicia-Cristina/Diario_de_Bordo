@@ -12,3 +12,17 @@ Dia 04/07
 Dia 11/07
 
 -Jogo continuano Space Invaders.
+
+Dia 08/08
+
+-VIsita no MundoSENAI,
+-Criado novas classes no Projeto Eventos Blumenau.
+
+Dia 15/08
+
+-Feito cinco novas classes para o projeto 'Eventos Blumenau':
+   Cliente;
+   Usuario;
+   Midia;
+   Ingresso,
+   Fornecedor.
